@@ -13,6 +13,25 @@ textarea{
   padding: 10px;
 }
 
+h1 {
+  color: rgb(36, 97, 36);
+}
+
+span {
+  color: #d3d3d3;
+}
+
+span2 {
+  color: #d383f8;
+}
+
+span3 {
+  color: #f8509f;
+}
+
+p3 {
+  font-weight: bold;
+}
 .jumbotron {
   text-align: center;
   background-color: transparent;
@@ -48,12 +67,12 @@ textarea{
 }
 
 .present {
-  background-color: #ff6961;
+  background-color: #d383f8;
   color: white;
 }
 
 .future {
-  background-color: #77dd77;
+  background-color: #f8509f;
   color: white;
 }
 
